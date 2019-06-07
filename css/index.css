@@ -169,7 +169,7 @@ p {
   background-color: #f6f6f6;
 }
 .navigation h1 {
-  font-size: 3.3rem;
+  font-size: 3.5rem;
   margin-top: 10px;
 }
 .navigation nav {
@@ -294,18 +294,18 @@ footer {
   }
 }
 .home .walk .walk-text p {
-  margin-bottom: 26px;
+  margin-bottom: 30px;
 }
 .home .walk .walk-text .btn {
   background: #22283A;
-  border-radius: 2px;
+  border-radius: 5px;
   color: white;
   font-weight: bold;
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   padding-top: 1.5%;
-  width: 7rem;
-  height: 2rem;
+  width: 8rem;
+  height: 2.5rem;
 }
 @media (max-width: 500px) {
   .home .walk .walk-text .btn {
